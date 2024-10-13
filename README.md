@@ -1,2 +1,1 @@
-# GenAi_Activities_UiPath
-we dive into UiPath's GenAI activities, showcasing how to track AI Units consumption and set up a connection for GenAI activities. We cover a range of activities, including Signature Similarity, Sentiment Analysis, Object Detection, Image Analysis.
+In this video, we dive into UiPath's GenAI activities, showcasing how to track AI Units consumption and set up a connection for GenAI activities. We cover a range of activities, including Signature Similarity, Sentiment Analysis, Object Detection, Image Analysis, Email Generation, Categorization, Content Generation, and Language Detection. This step-by-step guide is perfect for both beginners and experienced users, helping you harness the power of UiPath GenAI to enhance your automation workflows.
